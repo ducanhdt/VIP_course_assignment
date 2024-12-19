@@ -3,3 +3,4 @@ numpy==2.1.3
 opencv_python==4.10.0.84
 ipykernel
 spicy
+scikit-learn==1.5.2

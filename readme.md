@@ -10,7 +10,7 @@ This project requires **Python 3.11** and the following libraries:
 1. **OpenCV**  
 2. **Matplotlib**  
 3. **NumPy**  
-4. **spicy**
+4. **sklearn**
 
 ## Installation  
 To set up the environment and run the project, follow these steps:  
